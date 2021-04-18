@@ -1,0 +1,259 @@
+/*topBlock*/
+
+.topBlock {
+  background-image: url(Images/IMG_9540.JPG);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 850px;
+}
+
+.Logo {
+  font-family: 'Nova Square', cursive;
+  font-size: 30px;
+  width: 500px;
+  text-decoration: none;
+  color: #fff;
+  margin-left: 30px;
+  position: relative;
+  top: 30px;
+}
+.About {
+  font-family: 'Nova Square', cursive;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+  width: 100px;
+  float: right;
+  position: relative;
+  top: 40px;
+  margin-right: 10px;
+}
+.logoMenu {
+  font-family: 'Nova Square', cursive;
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  text-align: right;
+  width: 100px;
+  float: right;
+  position: relative;
+  top: 40px;
+  margin-right: 40px;
+}
+
+.guide {
+  font-family: 'Nova Square', cursive;
+  font-size: 30px;
+  color: #F7FC0C;
+  font-weight: bold;
+  position: relative;
+  top: 300px;
+  left: 250px;
+  width: 400px;
+  }
+.bright {
+  font-family: 'Nova Square', cursive;
+  color: #fff;
+  font-size: 50px;
+  position: relative;
+  left: 250px;
+  width: 550px;
+  top: 300px;
+}
+.iconF {
+  position: relative;
+  top: 70px;
+  left: 26px;
+}
+.iconV {
+  position: relative;
+  top: 150px;
+
+}
+.iconY {
+  position: relative;
+  left: 52px;
+}
+
+.scrollDown {
+  font-family: 'Nova Square', cursive;
+  font-size: 20px;
+  color: #fff;
+  float: right;
+  position: relative;
+  top: 80px;
+  transform: rotate(-90deg);
+}
+
+/*infoBlock*/
+
+.infoBlock {
+  background-color: #0B1D26;
+  width: 100%;
+  height: 600px;
+
+}
+
+.Hi {
+  font-family: 'Nova Square', cursive;
+  font-size: 70px;
+  color: #CED1D3;
+  position: relative;
+  left: 200px;
+  top: 50px;
+  width: 80px;
+}
+.infoPar {
+  font-family: 'Nova Square', cursive;
+  font-size: 30px;
+  color: #fff;
+  position: relative;
+  left: 270px;
+  width: 500px;
+  z-index: +1;
+}
+.infoImage {
+  height: 300px;
+  position: relative;
+  left: 52px;
+  bottom: 220px;
+}
+.AssemImg {
+  float: right;
+  position: relative;
+  bottom: 496px;
+  right: 100px;
+}
+
+/*gallaryBlock*/
+.gallaryBlock {
+  background-color: #0B1D26;
+  width: 100%;
+  height: 450px;
+}
+.Gallary {
+  width: 100px;
+  position: relative;
+  left: 50%;
+  top: 50px;
+  font-family: 'Nova Square', cursive;
+  color: #CED1D3;
+  font-size: 30px;
+}
+.Gimage {
+  height: 200px;
+
+}
+.table {
+  text-align: center;
+  position: relative;
+  bottom: 400px;
+  border-style: hidden;
+}
+.table2 {
+  width: 100%;
+  font-family: 'Nova Square', cursive;
+  color: #CED1D3;
+  font-size: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 400px;
+}
+td {
+  width: 33%;
+}
+/*masterclassBlock*/
+.bottomBlock {
+  background-image: url(Images/background1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  width: 100%;
+  height: 765px;
+}
+.masterclass {
+  font-family: 'Nova Square', cursive;
+  font-size: 30px;
+  color: #F7FC0C;
+  font-weight: bold;
+  position: relative;
+  top: 50px;
+  left: 200px;
+  width: 523px;
+}
+.masterPar1 {
+  font-family: 'Nova Square', cursive;
+  color: #fff;
+  position: relative;
+  left: 200px;
+  width: 523px;
+  top: 50px;
+  font-size: 40px;
+}
+.masterPar {
+  font-family: 'Nova Square', cursive;
+  color: #0B1D26;
+  position: relative;
+  left: 200px;
+  width: 1000px;
+  top: 50px;
+  font-size: 40px;
+}
+/*footer*/
+.footer {
+  position: relative;
+  top: 150px;
+  background-color: #0B1D26;
+  height: 60px;
+}
+.footerLogo {
+  font-family: 'Nova Square', cursive;
+  font-size: 20px;
+  width: 400px;
+  color: #fff;
+  margin-left: 30px;
+  position: relative;
+  top: 20px;
+  text-decoration: none;
+}
+.Follow {
+  font-family: 'Nova Square', cursive;
+  font-size: 10px;
+  color: #fff;
+  text-align: center;
+  position: relative;
+  bottom:19px;
+}
+.iconY1 {
+  padding-right: 40px;
+}
+.tableFooter {
+position: relative;
+left: 45%;
+bottom: 15px;
+}
+.BlogoMenu {
+font-family: 'Nova Square', cursive;
+font-size: 20px;
+color: #fff;
+text-align: right;
+width: 100px;
+float: right;
+position: relative;
+bottom: 40px;
+margin-right: 40px;
+text-decoration: none;
+}
+.AboutB {
+  font-family: 'Nova Square', cursive;
+  font-size: 20px;
+  color: #fff;
+  text-align: right;
+  width: 100px;
+  float: right;
+  position: relative;
+  bottom: 40px;
+  margin-right: 10px;
+  text-decoration: none;
+}
